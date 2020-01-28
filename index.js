@@ -1,3 +1,3 @@
-function a(){
-    console.log("abc");
+function abc(){
+    console.log("123");
 }
